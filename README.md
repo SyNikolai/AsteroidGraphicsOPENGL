@@ -5,7 +5,7 @@
 
 **AsteroidGraphicsOPENGL** is a C++ visualization engine developed to render and simulate the trajectory of asteroids. Utilizing Cartesian coordinates derived from asteroid surface data, this project provides a 3D graphical representation of celestial bodies, originally developed as part of an undergraduate thesis.
 
-## \#\# Project Overview
+## Project Overview
 
 The primary goal of this software is the high-fidelity visualization of asteroid models. By processing surface coordinate data, the engine reconstructs the asteroid's geometry and maps its movement within a simulated spatial environment.
 
@@ -18,7 +18,7 @@ The primary goal of this software is the high-fidelity visualization of asteroid
 
 -----
 
-## \#\# Technical Stack
+## Technical Stack
 
   * **Language:** C++
   * **Graphics API:** OpenGL
@@ -28,13 +28,13 @@ The primary goal of this software is the high-fidelity visualization of asteroid
 
 -----
 
-## \#\# Research Context
+## Research Context
 
 This project served as a visualization tool for my undergraduate physics thesis. It explores the intersection of computer graphics and orbital mechanics, specifically focusing on how discrete coordinate data can be translated into a performant 3D model for astronomical analysis.
 
 -----
 
-## \#\# Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -79,7 +79,7 @@ sudo apt-get install libglfw3-dev libglew-dev libglm-dev
 
 -----
 
-## \#\# Usage
+## Usage
 
 Upon launching, the application will initialize an OpenGL window.
 
