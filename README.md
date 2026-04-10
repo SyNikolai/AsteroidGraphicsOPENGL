@@ -1,7 +1,3 @@
-Here is a comprehensive and professional `README.md` tailored for the **AsteroidGraphicsOPENGL** project. This documentation covers the technical background, dependencies, and setup instructions.
-
------
-
 # AsteroidGraphicsOPENGL
 
 [](https://isocpp.org/)
