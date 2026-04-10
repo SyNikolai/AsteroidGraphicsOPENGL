@@ -91,7 +91,7 @@ Upon launching, the application will initialize an OpenGL window.
 
 -----
 
-## \#\# Project Structure
+## Project Structure
 
 ```text
 AsteroidGraphicsOPENGL/
@@ -103,7 +103,4 @@ AsteroidGraphicsOPENGL/
 └── README.md           # Documentation
 ```
 
------
-
-*Developed by [SyNikolai](https://github.com/SyNikolai).*
 
